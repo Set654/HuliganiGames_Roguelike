@@ -1,0 +1,8 @@
+Static validation (not Unity Editor compilation):
+8_direction_frames_count: 384
+wraith_attack_frames: 32
+asset_meta_count: 546
+png_count: 506
+cs_count: 22
+Errors: 0
+
