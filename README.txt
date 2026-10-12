@@ -27,11 +27,3 @@ Unity 6.6 (6000.6.5f1) · C# · uGUI · Legacy Input (KeyCode) · URP
   3. Загрузи Assets/Scenes/MainMenu.unity и нажми Play.
   4. Для Windows .exe: HuliganiGames → Build Final Windows x64.
 
-ДЛЯ РЕЛИЗА:
-  Нужны компиляция без ошибок, тестирование в Unity Editor, затем
-  отдельная проверка готовой Windows-сборки (начало, комнаты,
-  враги, боссы, звук, UI, предметы, победа, поражение).
-
-ПРИМЕЧАНИЕ:
-  Полноценную компиляцию/проверку в Unity Editor в среде подготовки ZIP
-  провести нельзя — Unity Editor здесь не установлен.
